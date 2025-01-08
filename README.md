@@ -59,12 +59,12 @@ Hi, I'm **Jahid Hasan Aoni** 👋! I'm a passionate MERN Stack Developer from Ba
 ### 📺 Netflix Clone (MERN Stack)
 - Built a Netflix-like clone with full CRUD functionality, user authentication, and streaming features.
 - 🔗 [GitHub Repo](https://github.com/jahidaoni/netflix-clone)
-- 🚀 Hosted on [Vercel/Heroku](if hosted)
+- 🚀 Hosted on Vercel
 
 ### 📚 Task Manager (MERN Stack)
 - Created a task management application where users can add, update, and delete tasks.
 - 🔗 [GitHub Repo](https://github.com/jahidaoni/task-manager)
-- 🚀 Hosted on [Vercel/Heroku](if hosted)
+- 🚀 Hosted on Vercel
 
 ---
 
