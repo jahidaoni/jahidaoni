@@ -44,7 +44,7 @@ Hi, I'm **Jahid Hasan Aoni** 👋! I'm a passionate MERN Stack Developer from Ba
 ## 🌍 Connect with Me
 
 - 📧 **Email**: [Jahidaonihasan@gmail.com](mailto:Jahidaonihasan@gmail.com)
-- 💼 **LinkedIn**: [Jahid Hasan Aoni](https://www.linkedin.com/in/jahidaoni/)
+- 💼 **LinkedIn**: [Jahid Hasan Aoni](https://www.linkedin.com/in/jahid-aoni-771772208/)
 - 🐦 **Twitter**: [@JahidAoni](https://twitter.com/jahidaoni)
 
 ---
